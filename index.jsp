@@ -1,3 +1,4 @@
+
 <%
   if(session.getAttribute("name")==null){
 	  response.sendRedirect("login.jsp");
@@ -53,10 +54,10 @@
 						class="nav-link py-3 px-0 px-lg-3 rounded" href="#contact">Contact</a></li>
 					<li class="nav-item mx-0 mx-lg-1"><a
 						class="nav-link py-3 px-0 px-lg-3 rounded" href="logout">Logout</a></li>
-						
+
 					<li class="nav-item mx-0 mx-lg-1 bg-danger"><a
 						class="nav-link py-3 px-0 px-lg-3 rounded" href="logout"><%=session.getAttribute("name") %></a></li>
-					
+
 				</ul>
 			</div>
 		</div>
@@ -68,7 +69,8 @@
 			<img class="masthead-avatar mb-5" src="assets/img/avataaars.svg"
 				alt="..." />
 			<!-- Masthead Heading-->
-			<h1 class="masthead-heading text-uppercase mb-0">Welcome To Unique Developer</h1>
+			<h1 class="masthead-heading text-uppercase mb-0">Welcome To
+				Unique Developer</h1>
 			<!-- Icon Divider-->
 			<div class="divider-custom divider-light">
 				<div class="divider-custom-line"></div>
@@ -344,8 +346,8 @@
 				<div class="col-lg-4">
 					<h4 class="text-uppercase mb-4">About Developer</h4>
 					<p class="lead mb-0">
-						Freelance is a free to use, MIT licensed Bootstrap theme created
-						y <a href="http://startbootstrap.cobm">Start Bootstrap</a> .
+						Freelance is a free to use, MIT licensed Bootstrap theme created y
+						<a href="http://startbootstrap.cobm">Start Bootstrap</a> .
 					</p>
 				</div>
 			</div>
