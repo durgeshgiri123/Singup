@@ -1,23 +1,3 @@
-# Singup
-# project-documentation
-
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
-</p>
-
-<h3 align="center">Project Title</h3>
-
-<div align="center">
-
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
-
----
 # project-documentation
 
 <p align="center">
@@ -138,6 +118,7 @@ Repeat the testing process: Once the issues have been resolved, re-run the autom
 It's important to note that the specific steps for running automated tests in Eclipse may vary depending on the testing framework and programming language used. It's always a good idea to consult the documentation or seek guidance from the testing framework vendor or community for specific instructions on how to run automated tests in Eclipse.
 
 </a>
+## Project ScreenShot<a name = "screenshot">
 ### Break down into end to end tests
 Explain what these tests test and why
 
@@ -206,9 +187,12 @@ Debugging: If you encounter any errors or issues with the Signup page, use Eclip
 
 Overall, using the Signup page system in Eclipse involves importing the project, configuring the environment, building and running the project, testing and debugging as needed, and ensuring that the system meets its requirements and provides a positive user experience. </a>
 - [MySql](https://www.mysql.com/) - Database
+-[Java]- Java
+-[HTML] - HTML
+-[CSS]- CSS
 
-## ✍ Authors <a name = "authors">codersandeep</a>
-- [@codersandeep](https://github.com/codersandeep16/Signup) - Idea & Initial work
+## ✍ Authors <a name = "authors">Durgesh Giri</a>
+- [@durgesh](https://github.com/durgeshgiri123/Singup) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
