@@ -99,7 +99,11 @@ Test the software: Once the installation is complete, launch the software and te
 It's important to note that the specific steps for installing software can vary depending on the software and operating system you are using. It's always a good idea to review the software vendor's documentation or seek assistance from their support team if you encounter any issues during the installation process.
 
 End with an example of getting some data out of the system or using it for a little demo.
+### Screenshot <a name="screenshot">
+![image](https://user-images.githubusercontent.com/70639616/234270860-bb725d34-f4ab-4497-ab0e-68d68345a887.png)
+![image](https://user-images.githubusercontent.com/70639616/234271453-67f71132-77c4-4dbf-b93b-f30aeeca5a63.png)
 
+</a>
 ## 🔧 Running the tests <a name = "tests">
 Set up the testing environment: Make sure that Eclipse is properly installed and configured with the required dependencies and plugins. You will also need to set up the testing framework you plan to use, such as JUnit or TestNG.
 
@@ -118,7 +122,6 @@ Repeat the testing process: Once the issues have been resolved, re-run the autom
 It's important to note that the specific steps for running automated tests in Eclipse may vary depending on the testing framework and programming language used. It's always a good idea to consult the documentation or seek guidance from the testing framework vendor or community for specific instructions on how to run automated tests in Eclipse.
 
 </a>
-## Project ScreenShot<a name = "screenshot">
 ### Break down into end to end tests
 Explain what these tests test and why
 
@@ -187,9 +190,12 @@ Debugging: If you encounter any errors or issues with the Signup page, use Eclip
 
 Overall, using the Signup page system in Eclipse involves importing the project, configuring the environment, building and running the project, testing and debugging as needed, and ensuring that the system meets its requirements and provides a positive user experience. </a>
 - [MySql](https://www.mysql.com/) - Database
--[Java]- Java
--[HTML] - HTML
--[CSS]- CSS
+
+- [Java](https://www.java.com/)- Backend Code
+
+- [HTML](https://www.html.com/) - FrontEnd Code
+
+- [CSS](https://www.css.com/)- Design
 
 ## ✍ Authors <a name = "authors">Durgesh Giri</a>
 - [@durgesh](https://github.com/durgeshgiri123/Singup) - Idea & Initial work
